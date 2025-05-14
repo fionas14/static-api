@@ -1,1 +1,52 @@
-yfjfjg
+[
+  {
+    "judul": "Alexandra",
+    "penyanyi": "Reality Club",
+    "imageId": "gambar-alexandra"
+  },
+  {
+    "judul": "Saturn",
+    "penyanyi": "SZA",
+    "imageId": "gambar-saturn"
+  },
+  {
+    "judul": "Always",
+    "penyanyi": "Daniel Caesar",
+    "imageId": "gambar-always"
+  },
+  {
+    "judul": "Dandelions",
+    "penyanyi": "Ruth B.",
+    "imageId": "gambar-dandelions"
+  },
+  {
+    "judul": "Daylight",
+    "penyanyi": "David Kushner",
+    "imageId": "gambar-daylight"
+  },
+  {
+    "judul": "Limbo",
+    "penyanyi": Keshi",
+    "imageId": "gambar-limbo"
+  },
+  {
+    "judul": "Yellow",
+    "penyanyi": "Coldplay",
+    "imageId": "gambar-yellow"
+  },
+  {
+    "judul": "August",
+    "penyanyi": "Taylor Swift",
+    "imageId": "gambar-august"
+  },
+  {
+    "judul": "Happier",
+    "penyanyi": "Olivia Rodrigo",
+    "imageId": "gambar-happier"
+  },
+  {
+    "judul": "Sparks",
+    "penyanyi": "Coldplay",
+    "imageId": "gambar-sparks"
+  }
+]
